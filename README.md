@@ -1,5 +1,5 @@
-# HEARTGUARD AI  
-### AI Next Gen Adaptive Cardiac Risk Chatbot
+ HEARTGUARD AI  -
+ AI Next Gen Adaptive Cardiac Risk Chatbot
 
 An adaptive multi-layer cardiac risk prediction system integrating:
 
@@ -8,11 +8,11 @@ An adaptive multi-layer cardiac risk prediction system integrating:
 - Generational behavioral intelligence
 - Confidence-based adaptive questioning
 
-## Architecture
+Architecture
 
 Clinical Model → Lifestyle Refinement → Generational Adjustment → Adaptive Question Engine → Final Risk Prediction
 
-## Tech Stack
+Tech Stack
 
 - FastAPI
 - React.js
@@ -20,4 +20,4 @@ Clinical Model → Lifestyle Refinement → Generational Adjustment → Adaptive
 - MongoDB
 - Tailwind CSS
 
-⚠ This system provides predictive risk estimation and does not replace professional medical diagnosis.
+ This system provides predictive risk estimation and does not replace professional medical diagnosis.
