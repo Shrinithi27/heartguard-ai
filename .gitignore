@@ -1,0 +1,101 @@
+# ========================
+# Python
+# ========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pdb
+*.egg
+*.egg-info/
+dist/
+build/
+*.so
+*.wheel
+*.whl
+
+# ========================
+# Virtual Environment
+# ========================
+venv/
+.venv/
+env/
+.env/
+ENV/
+env.bak/
+venv.bak/
+
+# ========================
+# Environment Variables
+# ========================
+.env
+.env.local
+.env.*.local
+
+# ========================
+# FastAPI / Uvicorn
+# ========================
+*.log
+*.pid
+
+# ========================
+# Machine Learning / Data Science
+# ========================
+*.pkl
+*.joblib
+*.h5
+*.hdf5
+*.model
+*.npy
+*.npz
+*.csv
+*.parquet
+*.arrow
+*.feather
+# Uncomment below if you want to ignore all notebooks' output
+# *.ipynb
+
+# ========================
+# Jupyter Notebooks
+# ========================
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# ========================
+# IDE / Editor
+# ========================
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-project
+*.sublime-workspace
+.DS_Store
+Thumbs.db
+
+# ========================
+# Testing
+# ========================
+.pytest_cache/
+.coverage
+htmlcov/
+*.xml
+*.json.bak
+
+# ========================
+# Node / Frontend (React/Vite)
+# ========================
+node_modules/
+dist/
+.next/
+.nuxt/
+*.local
+
+# ========================
+# Miscellaneous
+# ========================
+*.bak
+*.tmp
+*.temp
+*.orig

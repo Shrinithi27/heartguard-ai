@@ -1,0 +1,1 @@
+['age', 'sex', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'ca', 'thal', 'sleep_hours', 'stress_level', 'junk_food_freq', 'exercise_level', 'smoking', 'alcohol', 'family_history', 'generation']
